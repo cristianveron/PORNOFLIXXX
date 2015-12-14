@@ -60,7 +60,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url":"https://dl.dropbox.com/s/yf4lhyej2w8wh9t/principalpornoflix.xml?", "fanart": "https://bibliotecadeinvestigaciones.files.wordpress.com/2012/01/pasado-perfecto.jpg", "genre": "Tv Live", "date": "25.11.2015", "credits": "VERON", "thumbnail": "http://orig12.deviantart.net/9da2/f/2009/010/b/c/retro_by_vinhfx.jpg"}]
+SOURCES = [{"url":"https://dl.dropbox.com/s/5wowxo4phnq7z56/PRINCIPALRETROADDONS.xml.xml?", "fanart": "https://bibliotecadeinvestigaciones.files.wordpress.com/2012/01/pasado-perfecto.jpg", "genre": "Tv Live", "date": "25.11.2015", "credits": "VERON", "thumbnail": "http://orig12.deviantart.net/9da2/f/2009/010/b/c/retro_by_vinhfx.jpg"}]
     
 """
 if os.path.exists(source_file)==True:
